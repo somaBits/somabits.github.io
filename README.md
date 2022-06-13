@@ -1,5 +1,3 @@
-### Hi there 👋
-
 Soon there will be a tutorial available on how to build your own soma bit!
 
 For now we are making one tutorial that guides you through step by step on how to build a Soma Vibe Bit (Haptic Actuator).
