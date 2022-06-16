@@ -2,7 +2,7 @@
 
 Here you find the code to the Soma Vibe bit.
 
-In the wiki section you'll find detailed description on how to build your own: ![wiki/How-to-Build-a-Soma-Vibe][Wiki]
+In the wiki section you'll find detailed description on how to build your own: ![wiki/How-to-Build-a-Soma-Vibe](wiki/How-to-Build-a-Soma-Vibe)
 
 <!--
 **somaBits/somabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
