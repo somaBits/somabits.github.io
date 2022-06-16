@@ -1,11 +1,8 @@
-Soon there will be a tutorial available on how to build your own soma bit!
+#Soma Vibe Bit
 
-![The mess](/20-10-29%2014-51-16%202700.jpg)
+Here you find the code to the Soma Vibe bit.
 
-For now we are making one tutorial that guides you through step by step on how to build a Soma Vibe Bit (Haptic Actuator).
-Later on we will add more Soma Bits that integrate heatpads, inflatables, peltier elements and MIDI capabilities.
-
-We wrote a research paper about it. If you'd like to have a bit more background and reasoning about it, have a look: http://dl.acm.org/citation.cfm?id=3533510
+In the wiki section you'll find detailed description on how to build your own: [
 
 <!--
 **somaBits/somabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
