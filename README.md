@@ -11,7 +11,7 @@ We wrote a research paper about it. If you'd like to have a bit more background 
 
 [](Wiki)
 
-[How to build a Soma Bibe Bit](somabits.github.io.wiki.git)
+[How to build a Soma Bibe Bit](wiki/How-to-Build-a-Soma-Vibe-Bit)
 
 <!--
 **somaBits/somabits** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
