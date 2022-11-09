@@ -1,4 +1,4 @@
-#How to build your own Soma Bit
+# How to build your own Soma Bit
 
 [How to build a Soma Vibe Bit](https://github.com/somaBits/somabits.github.io/wiki/How-to-Build-a-Soma-Vibe-Bit)
 
