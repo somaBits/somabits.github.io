@@ -9,8 +9,10 @@
 ## Background
 ![The mess](https://user-images.githubusercontent.com/103489802/174261620-a5b91f10-e634-4698-b71a-255870606469.jpg)
 
-For now we are making one tutorial that guides you through step by step on how to build a Soma Vibe Bit (Haptic Actuator).
-Later on we will add more Soma Bits that integrate heatpads, inflatables, peltier elements and MIDI capabilities.
+The Soma Bits are a very basic set of actuators (read: something that can vibrate, heat up or expand/contract) based on the arduino platform. With them you can explore how vibration, heat and inflatables feel without having to focus on the technical stuff. They have a very simple interface on purpose and also simple approach on how to build them. They are designed to be usable after they are built and for newcomers to explore how they work on three levels:
+1. How interactive technology (in this case vibration, heat and inflatables) feels and use it without having to know how it works (intially).
+2. How the Soma Bits and therefore interactive technology works by looking at its commpenents.
+3. Build a Soma Bit yourself to understand the technical side of it.
 
 We wrote a research paper about it. If you'd like to have a bit more background and reasoning about it, have a look: [http://dl.acm.org/citation.cfm?id=3533510](http://dl.acm.org/citation.cfm?id=3533510)
 
