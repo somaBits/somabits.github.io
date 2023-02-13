@@ -1,7 +1,7 @@
 
 [How to build a Soma Vibe Bit](https://github.com/somaBits/somabits.github.io/wiki/How-to-Build-a-Soma-Vibe-Bit)
 
-[How to build a Soma Heat Bit](https://github.com/somaBits/somabits.github.io/wiki/How-to-Build-a-Soma-Vibe-Bit)
+[How to build a Soma Heat Bit](https://github.com/somaBits/somabits.github.io/wiki/How-to-Build-a-Soma-Heat-Bit)
 
 [Coming soon - How to build a Soma Inflatable Bit](../../wiki/)
 
