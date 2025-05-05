@@ -1,0 +1,66 @@
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 238:Plugin executed on: 'darwin'
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 239:Plugin executed with python version: '3.9.13 (v3.9.13:6de2ca5339, May 17 2022, 11:37:23) \n[Clang 13.0.0 (clang-1300.0.29.30)]'
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 240:KiCad build version: 9.0.1
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 241:Plugin version: 1.0.15
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 246:Screen sizes: [wx.Size(1710, 1107)]
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 253:Dialog size: wx.Size(213, 81)
+05-05 10:53:58 com_github_MitjaNemec_Archive3DModels.action_archive_3d_models 255:Char size: 16
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 30:Starting to archive 3D models
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J2
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/5807 HUSB238 Breakout.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/5807 HUSB238 Breakout.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R17
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: M1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R3
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R12
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: Q1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/IRLZ14S-2/TO_Z14S_VIS.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/IRLZ14S-2/TO_Z14S_VIS.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C2
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/SM04B-SRSS-TB.STEP
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/SM04B-SRSS-TB.STEP
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R11
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R14
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R16
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R10
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/RC0805FR-0710KL.STEP
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/RC0805FR-0710KL.STEP
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R13
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J3
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R18
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: C3
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: U1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/LIB_PEC11R-4220F-N0024/PEC11R-4220F-N0024/3D/PEC11R-4220F-N0024.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/LIB_PEC11R-4220F-N0024/PEC11R-4220F-N0024/3D/PEC11R-4220F-N0024.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J4
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: J5
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: ${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: ${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: R15
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: CR1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/S1B_13_F/SMA_DIO.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/S1B_13_F/SMA_DIO.step
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: A1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 51:Getting 3D models for footprint of: IC1
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 63:Trying to copy: /Users/chwi6691/Downloads/LIB_74HC3G14DC-Q100H/74HC3G14DC-Q100H/3D/74HC3G14DC-Q100H.stp
+05-05 10:54:06 com_github_MitjaNemec_Archive3DModels.archive_3d_models 150:Remapping: /Users/chwi6691/Downloads/LIB_74HC3G14DC-Q100H/74HC3G14DC-Q100H/3D/74HC3G14DC-Q100H.stp
