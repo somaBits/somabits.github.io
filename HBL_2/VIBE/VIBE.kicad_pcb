@@ -432,18 +432,7 @@
 			(uuid "b048fa61-b446-4d14-a76b-77b45e0ae7e6")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step"
-			(offset
-				(xyz -2.5 0 0.25)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz -90 -0 -0)
-			)
-		)
-		(model "/Users/chwi6691/Downloads/5807 HUSB238 Breakout.step"
+		(model "${KIPRJMOD}/packages3D/5807 HUSB238 Breakout.step"
 			(offset
 				(xyz 12.75 2.5 3)
 			)
@@ -452,6 +441,17 @@
 			)
 			(rotate
 				(xyz -0 -0 -180)
+			)
+		)
+		(model "${KIPRJMOD}/packages3D/SL-103-G-39.step"
+			(offset
+				(xyz -2.5 0 0.25)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz -90 -0 -0)
 			)
 		)
 	)
@@ -1082,7 +1082,7 @@
 			(uuid "ee1cf27b-8516-482c-a893-f0357df376be")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinHeader_2.54mm.3dshapes/PinHeader_1x02_P2.54mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/PinHeader_1x02_P2.54mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -1896,7 +1896,7 @@
 			(uuid "6f063cc7-ee44-45a4-9cdc-11a010c9d43a")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/IRLZ14S-2/TO_Z14S_VIS.step"
+		(model "${KIPRJMOD}/packages3D/TO_Z14S_VIS.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2090,7 +2090,7 @@
 			(uuid "1a169d8b-5929-4ead-a111-5f56e2c8ece1")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_0201_0603Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -2384,7 +2384,7 @@
 			(uuid "a3fd5d39-2d4c-4c90-bb8f-8c3cb642d484")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/SM04B-SRSS-TB.STEP"
+		(model "${KIPRJMOD}/packages3D/SM04B-SRSS-TB.STEP"
 			(offset
 				(xyz 0 -1.5 0)
 			)
@@ -3095,7 +3095,7 @@
 			(uuid "0331f142-8a1a-46b7-bf5f-5e2acd05ae21")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/RC0805FR-0710KL.STEP"
+		(model "${KIPRJMOD}/packages3D/RC0805FR-0710KL.STEP"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -3554,7 +3554,7 @@
 			(uuid "723e5a41-ccff-4a2c-81e2-ee367d798106")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/SL-103-G-39/SL-103-G-39.step"
+		(model "${KIPRJMOD}/packages3D/SL-103-G-39.step"
 			(offset
 				(xyz -2.5 0 0.25)
 			)
@@ -3748,7 +3748,7 @@
 			(uuid "e11de80d-a764-4be1-9f70-a6d07552f0de")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_0201_0603Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4117,7 +4117,7 @@
 			(uuid "b2663d2b-d24c-490e-9c06-27d73f0c42b7")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Capacitor_SMD.3dshapes/C_0201_0603Metric.wrl"
+		(model "${KIPRJMOD}/packages3D/C_0201_0603Metric.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -4558,7 +4558,7 @@
 			(uuid "a38f63e7-adf9-424d-a109-dda1474233d7")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/LIB_PEC11R-4220F-N0024/PEC11R-4220F-N0024/3D/PEC11R-4220F-N0024.stp"
+		(model "${KIPRJMOD}/packages3D/PEC11R-4220F-N0024.stp"
 			(offset
 				(xyz 2.5 -7 5.5)
 			)
@@ -5009,7 +5009,7 @@
 			(uuid "4bf584db-1540-4de0-9e0d-5fc7b410e988")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_Molex.3dshapes/Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal.wrl"
+		(model "${KIPRJMOD}/packages3D/Molex_PicoBlade_53261-0571_1x05-1MP_P1.25mm_Horizontal.wrl"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -5262,7 +5262,7 @@
 			(uuid "c62b010f-1da6-4683-ba13-90eb58a418c4")
 		)
 		(embedded_fonts no)
-		(model "${KICAD9_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x02_P2.54mm_Vertical.wrl"
+		(model "${KIPRJMOD}/packages3D/PinSocket_1x02_P2.54mm_Vertical.wrl"
 			(hide yes)
 			(offset
 				(xyz 0 0 0)
@@ -6113,7 +6113,7 @@
 			)
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/S1B_13_F/SMA_DIO.step"
+		(model "${KIPRJMOD}/packages3D/SMA_DIO.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -6848,9 +6848,9 @@
 			(uuid "5e990de7-026f-47da-948f-9415ae21a400")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp"
+		(model "${KIPRJMOD}/packages3D/SL-115-T-39.stp"
 			(offset
-				(xyz 0 -17.7 0.3)
+				(xyz 15.2 -17.7 0.3)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -6859,9 +6859,9 @@
 				(xyz -90 -0 -90)
 			)
 		)
-		(model "/Users/chwi6691/Downloads/PARTserver22025042721363566952403d0b6156e/SL-115-T-39.stp"
+		(model "${KIPRJMOD}/packages3D/SL-115-T-39.stp"
 			(offset
-				(xyz 15.2 -17.7 0.3)
+				(xyz 0 -17.7 0.3)
 			)
 			(scale
 				(xyz 1 1 1)
@@ -7256,7 +7256,7 @@
 			(uuid "e2b9cbfd-9776-4870-b36f-0d9b542b8c25")
 		)
 		(embedded_fonts no)
-		(model "/Users/chwi6691/Downloads/LIB_74HC3G14DC-Q100H/74HC3G14DC-Q100H/3D/74HC3G14DC-Q100H.stp"
+		(model "${KIPRJMOD}/packages3D/74HC3G14DC-Q100H.stp"
 			(offset
 				(xyz -1.65 -1 -0.85)
 			)
