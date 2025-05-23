@@ -3564,6 +3564,86 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "Version 1, received May 12, 2025"
+		(exclude_from_sim no)
+		(at 197.866 170.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "068e8b34-bf33-4d78-8298-a5dd762ce475")
+	)
+	(text "LED Ring molex con. "
+		(exclude_from_sim no)
+		(at 186.436 53.848 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "2c521c09-2561-4407-889d-f1d35e8ead59")
+	)
+	(text "For haptic driver OR pressure sensor"
+		(exclude_from_sim no)
+		(at 150.114 43.434 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3caf240f-8ba1-46c0-94fc-be27ac8cf377")
+	)
+	(text "force sensitive r."
+		(exclude_from_sim no)
+		(at 131.572 47.498 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "5cf44994-6396-48f4-ae48-d66f441aefb3")
+	)
+	(text "Incremental Encoder"
+		(exclude_from_sim no)
+		(at 227.33 66.294 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "64ba87c3-4aa5-4fdc-88b4-01e7dc899e6d")
+	)
+	(text "Usb-c power input module"
+		(exclude_from_sim no)
+		(at 40.386 22.352 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "95656cb2-2077-494e-986b-3c51307e9d49")
+	)
+	(text "Force sensitve resistor"
+		(exclude_from_sim no)
+		(at 266.954 46.482 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "edc4152b-f2e5-4f92-8434-b908a7361804")
+	)
+	(text "Mosfets that ultimately goes to right side output"
+		(exclude_from_sim no)
+		(at 232.41 90.424 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "f6e02809-94af-4aa3-a049-4650d04d05e7")
+	)
 	(junction
 		(at 236.22 133.35)
 		(diameter 0)
